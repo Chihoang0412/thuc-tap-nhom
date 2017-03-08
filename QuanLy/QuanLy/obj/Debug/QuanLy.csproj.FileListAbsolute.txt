@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2015\Projects\QuanLy\QuanLy\bin\Debug\QuanLy.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.frmNhanvien.resources
+c:\users\dell\documents\visual studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\QuanLy\QuanLy\bin\Debug\QuanLy.exe
+c:\users\dell\documents\visual studio 2015\Projects\QuanLy\QuanLy\bin\Debug\QuanLy.pdb
+c:\users\dell\documents\visual studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.exe
+c:\users\dell\documents\visual studio 2015\Projects\QuanLy\QuanLy\obj\Debug\QuanLy.pdb
